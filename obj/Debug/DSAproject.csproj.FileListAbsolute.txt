@@ -1,0 +1,12 @@
+C:\Users\Khan Computer\source\repos\DSAproject\bin\Debug\DSAproject.exe.config
+C:\Users\Khan Computer\source\repos\DSAproject\bin\Debug\DSAproject.exe
+C:\Users\Khan Computer\source\repos\DSAproject\bin\Debug\DSAproject.pdb
+C:\Users\Khan Computer\source\repos\DSAproject\obj\Debug\DSAproject.csprojAssemblyReference.cache
+C:\Users\Khan Computer\source\repos\DSAproject\obj\Debug\DSAproject.Warehouse.resources
+C:\Users\Khan Computer\source\repos\DSAproject\obj\Debug\DSAproject.Gallery.resources
+C:\Users\Khan Computer\source\repos\DSAproject\obj\Debug\DSAproject.Properties.Resources.resources
+C:\Users\Khan Computer\source\repos\DSAproject\obj\Debug\DSAproject.csproj.GenerateResource.cache
+C:\Users\Khan Computer\source\repos\DSAproject\obj\Debug\DSAproject.csproj.CoreCompileInputs.cache
+C:\Users\Khan Computer\source\repos\DSAproject\obj\Debug\DSAproject.exe
+C:\Users\Khan Computer\source\repos\DSAproject\obj\Debug\DSAproject.pdb
+C:\Users\Khan Computer\source\repos\DSAproject\obj\Debug\DSAproject.MainMenu.resources
